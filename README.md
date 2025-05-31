@@ -2,6 +2,10 @@
 
 🧠 AI-powered code reviewer for your staged Git changes using Google Gemini.
 
+[![codeeye](https://img.shields.io/npm/v/codeeye)](https://npmjs.com/package/codeeye)
+[![Gemini Powered](https://img.shields.io/badge/powered%20by-Gemini-blue)](https://makersuite.google.com)
+
+
 ![Image](https://raw.githubusercontent.com/AsharSal/codeeye/refs/heads/main/screenshots/codeeye.png)
 
 ## 📦 Install
