@@ -1,5 +1,5 @@
 {
-  "name": "@asharsal/codeeye",
+  "name": "codeeye",
   "version": "1.0.3",
   "type": "module",
   "bin": {
@@ -21,9 +21,6 @@
   "homepage": "https://github.com/AsharSal/codeeye",
   "bugs": {
     "url": "https://github.com/AsharSal/codeeye/issues"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
   },
   "license": "MIT",
   "repository": {
