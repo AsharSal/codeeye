@@ -2,6 +2,8 @@
 
 🧠 AI-powered code reviewer for your staged Git changes using Google Gemini.
 
+![Image](https://raw.githubusercontent.com/AsharSal/codeeye/refs/heads/main/screenshots/codeeye.png)
+
 ## 📦 Install
 
 ```bash
