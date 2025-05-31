@@ -1,0 +1,38 @@
+{
+  "name": "codeeye",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "codeeye": "review.js"
+  },
+  "scripts": {
+    "start": "node review.js"
+  },
+  "keywords": [
+    "cli",
+    "ai",
+    "code review agent",
+    "code-review",
+    "gemini code review",
+    "google generative ai"
+  ],
+  "description": "A CLI tool that uses Google Gemini to review code and provide suggestions.",
+  "author": "Ashar Saleem",
+  "homepage": "https://github.com/AsharSal/codeeye",
+  "bugs": {
+    "url": "https://github.com/AsharSal/codeeye/issues"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsharSal/codeeye.git"
+  },
+  "dependencies": {
+    "@google/genai": "^0.13.0",
+    "@google/generative-ai": "^0.24.1",
+    "chalk": "^5.3.0",
+    "clipboardy": "^4.0.0",
+    "dotenv": "^16.5.0",
+    "ora": "^7.0.1"
+  }
+}
