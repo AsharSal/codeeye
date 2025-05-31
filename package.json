@@ -1,6 +1,6 @@
 {
   "name": "@asharsal/codeeye",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "module",
   "bin": {
     "codeeye": "review.js"
@@ -23,8 +23,8 @@
     "url": "https://github.com/AsharSal/codeeye/issues"
   },
   "publishConfig": {
-  "registry": "https://npm.pkg.github.com/"
-},
+    "registry": "https://npm.pkg.github.com/"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
