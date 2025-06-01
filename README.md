@@ -4,6 +4,7 @@
 
 [![codeeye](https://img.shields.io/npm/v/codeeye)](https://npmjs.com/package/codeeye)
 [![Gemini Powered](https://img.shields.io/badge/powered%20by-Gemini-blue)](https://makersuite.google.com)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
 ![Image](https://raw.githubusercontent.com/AsharSal/codeeye/refs/heads/main/screenshots/codeeye.png)
