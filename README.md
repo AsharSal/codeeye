@@ -9,7 +9,26 @@
 
 ![Image](https://raw.githubusercontent.com/AsharSal/codeeye/refs/heads/main/screenshots/codeeye.png)
 
-## 📦 Install
+
+
+### 📦 Install Locally
+
+
+```bash
+npm install codeeye
+```
+- if you want to install this package locally you need to use codeye command with npx
+
+```bash
+
+npx codeeye
+npx codeeye --summary
+npx codeeye --md
+npx codeeye --copy
+
+```
+
+## 📦 Install Globally (Preferred)
 
 ```bash
 npm i -g codeeye
