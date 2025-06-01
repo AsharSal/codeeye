@@ -1,12 +1,12 @@
 {
   "name": "codeeye",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "type": "module",
   "bin": {
-    "codeeye": "review.js"
+    "codeeye": "cli.js"
   },
   "scripts": {
-    "start": "node review.js"
+    "start": "node cli.js"
   },
   "keywords": [
     "cli",
