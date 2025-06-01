@@ -7,10 +7,10 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ### suggestion example
-![Image](https://github.com/user-attachments/assets/0cc187cc-62e8-49b9-b23c-007e52851c78)
+![Image](https://res.cloudinary.com/djnvd9axl/image/upload/v1748796387/codeeye_axhnay.png)
 
 ### suggested fix example
-![Image](https://github.com/user-attachments/assets/467a5880-c49e-4521-b028-1027ce02e444)
+![Image](https://res.cloudinary.com/djnvd9axl/image/upload/v1748796387/image_yqyfed.png)
 
 
 ### 📦 Install Locally

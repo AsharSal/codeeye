@@ -1,6 +1,6 @@
 {
   "name": "codeeye",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "type": "module",
   "bin": {
     "codeeye": "cli.js"
